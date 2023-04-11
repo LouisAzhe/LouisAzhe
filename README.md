@@ -3,7 +3,7 @@
 ## I'm a Developer which with Project Management ability
 
 - 🔭 I’m currently working on Shin Kong Financial Holding
-- 🌱 I’m currently learning ML and DL
+- 🌱 I’m currently learning ML, DL and Cloud
 - 👯 I am passionate about new technologies
 
 <h3 align="left">Languages and Tools</h3>
